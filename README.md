@@ -11,8 +11,8 @@ The RSA cryptosystem relies on elegant mathematical concepts—prime numbers, mo
 - **Purpose**: To offer a clear, detailed look at RSA’s math for those curious about cryptography’s theoretical roots.
 
 ## Files
-- **[RSA_Cryptosystem.pdf](RSA_Cryptosystem.pdf)**: The complete article, formatted with equations and examples (March 30, 2025).
-- **`src/` (optional)**: LaTeX source files, if you’d like to compile or modify the document yourself.
+- **[RSA_Cryptosystem.pdf](RSA_MATH_DECODED.pdf)**: The complete article, formatted with equations and examples (March 30, 2025).
+- **`src/` (main.tex)**: LaTeX source files, if you’d like to compile or modify the document yourself.
 
 ## Motivation
 I created this article to help others grasp the mathematics driving RSA—primes, modular arithmetic, and beyond. The reasoning behind it is simple: breaking down these concepts makes cryptography’s power more approachable, especially for those keen to see how number theory secures our digital world.
